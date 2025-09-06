@@ -1,1 +1,1 @@
-# Intrusion-Detection-Systems-IDS-vs-Intrusion-Prevention-Systems-IPS-
+# Intrusion Detection Systems (IDS) vs Intrusion Prevention Systems (IPS)
