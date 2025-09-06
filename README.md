@@ -51,7 +51,7 @@ In cybersecurity, **Intrusion Detection Systems (IDS)** and **Intrusion Preventi
 
 ## 📊 Visual Comparison
 
-![IDS vs IPS Infographic](/assets/ids-vs-ips.png) 
+![IDS vs IPS Infographic](Intrusion%20Detection%20Systems%20(IDS)%20vs%20Intrusion%20Prevention%20Systems%20(IPS).png) 
 
 
 ---
